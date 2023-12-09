@@ -5,7 +5,7 @@
 📈 ROC-AUC: **0.827**</br>
 :trophy: **6 место** 🎖️</br>
 ## :memo: Решение 🤖
-Итоговым решением стал блендингиз моделей: CatBoost, KNN, ExtraTrees Classifier;</br></br>
+Итоговым решением стал блендинг из моделей: CatBoost, KNN, ExtraTrees Classifier;</br></br>
 ![image](https://github.com/MALINAYAGODA/IThack_2023/assets/86769332/34b4d505-4ae2-46b0-91c8-8b5abc4fb5b7)
 ## :memo: Технологии/особенности 🛠️
 - CatBoost; Light_GBM; XGBModel; ExtraTreesClassifier; KNN;
